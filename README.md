@@ -73,9 +73,11 @@ Passionate about building real-world projects that solve societal challenges—e
 
 ## 📬 Contact Me
 
-- 💬 WhatsApp: [Chat with me](https://wa.me/201222306648)
-- 💼 LinkedIn: [Mahmoud Sabry](https://www.linkedin.com/in/mahmoud-sabri-854812282)
-- 📫 Email: mahmoudsabri11111@gmail.com
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-sabri-854812282)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25E9F233.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201222306648)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmoudsabri11111@gmail.com)
 
 
 ---
