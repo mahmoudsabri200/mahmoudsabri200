@@ -62,10 +62,21 @@ Passionate about building real-world projects that solve societal challenges—e
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+
+<!-- Machine Learning -->
+<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" alt="Machine Learning" width="23%" />
+
+<!-- Deep Learning -->
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Deep Learning" width="23%" />
+
+<!-- Computer Vision -->
+<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Computer Vision" width="23%" />
+
+<!-- NLP -->
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Natural Language Processing" width="23%" />
+
 </div>
+
 
 ---
 
