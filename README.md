@@ -1,9 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=👋+Welcome+to+My+Profile;I'm+Mahmoud+Sabry+Elzemranii" alt="Typing SVG" />
-</h1>
+# 👋 Welcome to My Profile – Mahmoud Sabry
 
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%" />
+
+<!-- Banner with your image -->
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner-mahmoud.png" alt="Mahmoud Sabry – AI Engineer" width="100%">
+
+<!-- Professional AI GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdmcWg4NzI0b2JtdDZsMnVoaHgybW15dDFubTY0bHkyb2N6cXRnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IpQwf1M2ifd8D1CwZz/giphy.gif" alt="AI Developer Banner" width="75%" />
+
 </div>
 
 ---
