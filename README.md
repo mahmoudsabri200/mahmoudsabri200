@@ -1,7 +1,8 @@
-# 👋 Welcome to My Profile – Mahmoud Sabry
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=👋+Welcome+to+My+Profile;I'm+Mahmoud+Sabry+Elzemranii" alt="Typing SVG" />
+</h1>
 
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%" />
 </div>
 
@@ -47,6 +48,7 @@ Passionate about building real-world projects that solve societal challenges—e
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
 ---
 
 ## 📂 Featured Projects
@@ -61,25 +63,11 @@ Passionate about building real-world projects that solve societal challenges—e
 
 ## 📊 GitHub Stats
 
-# 👋 Welcome to My Profile – Mahmoud Sabry
-
 <div align="center">
-
-<!-- Machine Learning -->
-<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" alt="Machine Learning" width="23%" />
-
-<!-- Deep Learning -->
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Deep Learning" width="23%" />
-
-<!-- Computer Vision -->
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Computer Vision" width="23%" />
-
-<!-- NLP -->
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Natural Language Processing" width="23%" />
-
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
 </div>
-
-
 
 ---
 
@@ -98,7 +86,6 @@ Passionate about building real-world projects that solve societal challenges—e
 </a>
 
 </div>
-
 
 ---
 
