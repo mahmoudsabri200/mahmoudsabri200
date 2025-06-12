@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Banner with your image -->
-<img src="https://raw.githubusercontent.com/mahmoudsabri200/mahmoudsabri200/main/assets/banner-mahmoud.png" alt="Mahmoud Sabry – AI Engineer" width="100%">
+<img src="https://raw.githubusercontent.com/mahmoudsabri200/mahmoudsabri200/main/assets/banner-mahmoud.png"  width="100%">
 
 <!-- Professional AI GIF -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdmcWg4NzI0b2JtdDZsMnVoaHgybW15dDFubTY0bHkyb2N6cXRnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IpQwf1M2ifd8D1CwZz/giphy.gif" alt="AI Developer Banner" width="75%" />
