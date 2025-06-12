@@ -1,7 +1,7 @@
 # 👋 Welcome to My Profile – Mahmoud Sabry
 
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%" /><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%" />
 </div>
 
@@ -71,13 +71,19 @@ Passionate about building real-world projects that solve societal challenges—e
 
 ## 📬 Contact Me
 
-## 📬 Contact Me
+<div align="center">
 
-## 📬 Contact Me
+<a href="https://www.linkedin.com/in/mahmoud-sabri-854812282" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://wa.me/201222306648" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+<a href="mailto:mahmoudsabri11111@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-sabri-854812282)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25E9F233.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201222306648)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmoudsabri11111@gmail.com)
+</div>
 
 
 ---
