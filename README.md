@@ -69,19 +69,17 @@ Passionate about building real-world projects that solve societal challenges—e
 
 <div align="center">
 
-<!-- Overall GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoudsabri200&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true&hide=stars" width="40%" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoudsabri200&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&hide=stars" width="35%" alt="GitHub Stats" />
 
-<!-- Top Languages Used -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsabri200&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="40%" alt="Top Languages" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsabri200&layout=compact&theme=tokyonight&langs_count=6" width="35%" alt="Top Languages" />
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudsabri200&theme=tokyonight&hide_border=false" width="80%" alt="GitHub Streak" />
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=mahmoudsabri200&theme=darkhub&no-frame=true&row=1&column=6" width="80%" alt="GitHub Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudsabri200&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
+
 
 
 
